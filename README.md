@@ -1,3 +1,2 @@
 # hello-world
-create repository test
-make a change test
+local commit test
