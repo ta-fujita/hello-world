@@ -1,1 +1,2 @@
-Use SmartGit test
+Use SmartGit test.
+I changed in remote.
